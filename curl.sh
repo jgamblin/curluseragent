@@ -2,7 +2,7 @@
 target="http://jgamblin.com"
 
 echo
-echo -e "Curling $target to take WAF detection"
+echo -e "Curling $target to test WAF detection"
 echo 
 
 while true
